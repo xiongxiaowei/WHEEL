@@ -3,4 +3,5 @@ The purpose to create this rep is that each time we build our project we'll rest
 ### how to start
 ```
 cnpm i webpack webpack-dev-server -g
+npm run dev
 ```
