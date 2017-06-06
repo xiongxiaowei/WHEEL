@@ -12,7 +12,7 @@
     "webpack": "^2.4.1"
   },
   "scripts": {
-    "dev": "webpack-dev-server --inline --open --hot --port 8088"
+    "dev": "webpack-dev-server --inline --open --hot --port 8088 "
   },
   "dependencies": {
     "angular": "^1.6.4",
